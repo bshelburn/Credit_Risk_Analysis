@@ -11,7 +11,8 @@ After the first assignment Jill has asked that I now apply machine lerning towar
 - Balanced Random
 - Easy Esnsemble
 
-### Random
+### Random Over
+<img width="989" alt="Screen Shot 2021-11-11 at 4 53 18 PM" src="https://user-images.githubusercontent.com/84201082/141374989-939ed572-f0c7-42c9-a2fb-a7003761a801.png">
 
 
 ### SMOTE
