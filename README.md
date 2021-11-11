@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 ---
-## Overview of Election Audit
-Performed an electtion audit for Seth, Tom and the Colorado Board of Elections.   Results were housed within a .csv file containing the Ballot ID, County, and Candidate names.   Python was utilized to parse out and calculate the needed metrics held within the large imported .csv file as well as create the outputs shown in both the computer terminal and a .txt file.
+## Overview of Credit Risk Analysis
+After the first assignment Jill has asked that I now apply machine lerning towards credit card risk. Results are shown in the examples below.
 
 ### Purpose
 This audit was needed by the Colorado Board of Elections to determine the total number of votes cast, all candidates who received votes, total number of votes received per candidate, percentage of total votes each candidate received, which county the votes were cast in, total votes for each county, percentage of total votes per county, whouch county had the highest turnout for the election, and the winner based on the popular vote with percentage of total votes.
