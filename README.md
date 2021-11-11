@@ -22,3 +22,4 @@ After the first assignment Jill has asked that I now apply machine lerning towar
 <img width="1058" alt="Screen Shot 2021-11-11 at 5 19 19 PM" src="https://user-images.githubusercontent.com/84201082/141377123-71ceebf2-edd3-40d6-b528-7c83d95ca523.png">
 
 ## Summary
+Based on the two very wide accuracy scores I have little confidence within the data set to provide a determination.
