@@ -21,9 +21,11 @@ After the first assignment Jill has asked that I now apply machine lerning towar
 
 
 ### Balanced Random
+<img width="1008" alt="Screen Shot 2021-11-11 at 5 16 11 PM" src="https://user-images.githubusercontent.com/84201082/141376865-461cbf57-14a7-463a-802e-bdb617263911.png">
 
 
 ### Easy Ensemble
+<img width="1058" alt="Screen Shot 2021-11-11 at 5 19 19 PM" src="https://user-images.githubusercontent.com/84201082/141377123-71ceebf2-edd3-40d6-b528-7c83d95ca523.png">
 
 
 ## Summary
